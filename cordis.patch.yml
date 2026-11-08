@@ -1,0 +1,4 @@
+- insert:
+    - id: local-side-chat
+      name: '@local/dsh-side-chat'
+      config: {}
